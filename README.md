@@ -1,8 +1,18 @@
-🚀 Hi there, I'm rebornloki-ops!
-I’m an Open Source enthusiast and a perpetual student of the craft.
-I believe that the best way to learn is by building in public and helping others improve their code.🛠️ What I’m focused on right nowContributing: Actively looking for "good first issues" and "help wanted" tags in the ecosystem.
-Learning: Currently deep-diving into Kotlin and Python.
-Goal: Becoming a core maintainer of an impactful open-source project by the end of the year.
-📈 My Open Source Journey
-I thrive on the collaborative nature of GitHub. Whether it's fixing a typo in documentation or refactoring a core module, I’m here for it.
-The best time to plant a tree was 20 years ago. The second best time is now." — Let's build something great together.
+# 🚀 Hi, I’m rebornloki-ops
+
+I’m an open-source junkie and perpetual student of the craft. I build in public, break things in public, and somehow convince myself it’s learning. 🛠️
+
+## What I’m focused on right now
+- **Contributing:** Hunting down "good first issues" and "help wanted" tags like a caffeinated bug magnet.  
+- **Learning:** Deep-diving into Kotlin and Python.  
+- **Goal:** Become a core maintainer of an impactful open-source project by the end of the year. 📈
+
+## My Open Source Journey
+I thrive on GitHub’s chaos. From fixing a typo to refactoring core modules, I’m here for it.  
+
+- **Functional procrastinator:** I commit code like I commit to feelings—barely, inconsistently, and with dramatic flair.  
+- **Anime-fueled coder:** Oscillating between building apps and binge-watching shows that remind me I’ll never be normal.  
+- **Master of window-shopping emotional investments:** Chasing ideas, API keys, and fictional crushes while somehow keeping just enough commits alive to look responsible.  
+
+> "The best time to plant a tree was 20 years ago. The second best time is now."  
+> — Let’s build something great together.
