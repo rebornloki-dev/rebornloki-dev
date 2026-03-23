@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 🚀 Hi, I’m rebornloki-ops
+# 🚀 Hi, I’m rebornloki-dev
 
 > "Functional procrastinator: I commit code like I commit to feelings—barely, inconsistently, and with dramatic flair."
 
@@ -22,13 +22,13 @@
 
 ### 📊 Stats at a Glance
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=rebornloki-ops&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="400" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebornloki-ops&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="300" />
+<img src="https://github-readme-stats.vercel.app/api?username=rebornloki-dev&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebornloki-dev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="300" />
 </p>
 
 ### 🏆 Achievements & Streaks
-![](https://github-profile-trophy.vercel.app/?username=rebornloki-ops&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-![](https://nirzak-streak-stats.vercel.app/?user=rebornloki-ops&theme=dark&hide_border=true)
+![](https://github-profile-trophy.vercel.app/?username=rebornloki-dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://nirzak-streak-stats.vercel.app/?user=rebornloki-dev&theme=dark&hide_border=true)
 
 ---
 
@@ -36,4 +36,4 @@
 * 🍵 **Anime-fueled coder:** Oscillating between building apps and binge-watching shows that remind me I’ll never be normal.
 * 🛍️ **Master of window-shopping emotional investments:** Chasing ideas and API keys while keeping just enough commits alive to look responsible.
 
-[![](https://visitcount.itsvg.in/api?id=rebornloki-ops&icon=2&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=rebornloki-dev&icon=2&color=0)](https://visitcount.itsvg.in)
