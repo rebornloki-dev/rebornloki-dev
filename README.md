@@ -6,7 +6,7 @@
 ### 🛠️ What I'm Up To
 * 🔭 **Currently:** Hunting for impactful Open Source projects in systems programming and OS dev.
 * 🌱 **Learning:** Deep diving into **Memory Management, Kernel Basics, and Compiler Design**.
-* 🤝 **Collaboration:** Seeking mentors to help me navigate low-level architecture and catch the logic errors I don't see yet.
+
 
 ### 💻 Core Tech Stack
 **Low-Level & Systems:**
