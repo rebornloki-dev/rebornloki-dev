@@ -36,4 +36,5 @@
 * 🍵 **Anime-fueled coder:** Oscillating between building apps and binge-watching shows that remind me I’ll never be normal.
 * 🛍️ **Master of window-shopping emotional investments:** Chasing ideas and API keys while keeping just enough commits alive to look responsible.
 
-[![](https://visitcount.itsvg.in/api?id=rebornloki-dev&icon=2&color=0)](https://visitcount.itsvg.in)
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
