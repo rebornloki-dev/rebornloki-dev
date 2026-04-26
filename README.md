@@ -37,4 +37,4 @@
 * 🛍️ **Master of window-shopping emotional investments:** Chasing ideas and API keys while keeping just enough commits alive to look responsible.
 
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/rebornloki-dev/rebornloki-dev/blob/output/github-snake-dark.svg)
